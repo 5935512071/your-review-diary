@@ -1,0 +1,71 @@
+body {
+    margin: 0;
+    background-color: rgb(151, 101, 143);
+    height: 100vh;
+    width:100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.inbody{
+    padding: 30px;
+    width: 350spx;
+    border-top-style: double;
+    border-right: double;
+    border-bottom-style: double;
+    border-left-style: double;
+    height: 400px;
+    background-color: burlywood;
+    border-color: rgb(14, 3, 54);
+    border-radius: 7px;
+    border-width: 25px;   
+    
+}
+
+.signin{
+    
+    border-style: dotted dashed solid double;
+    background-color: rgb(202, 74, 106);
+    border-width: 7px;
+    margin: 80px;
+    font-size: 25px;
+    margin-top: 25px;
+    margin-left: -100;
+    
+}
+
+.email{
+    font-weight: bold;
+    font-size: larger;
+    background-color: rgba(92, 94, 95, 0.678);
+    margin-top: 2px;
+    margin-left: 150px;
+    
+}
+
+.password{
+    font-weight: bold;
+    font-size: larger;
+    background-color: rgba(92, 94, 95, 0.678);
+    margin-top: -300px;
+    margin-left: 120px;
+    
+}
+
+.submit{
+    margin-right:70px;
+    border-top-style: double;
+    border-right: double;
+    border-bottom-style: double;
+    border-left-style: double;
+    border-color: darkblue;
+    background-color: rgb(86, 130, 167);
+    border-width: 4px;
+    font-size: 19px;
+    padding: 20;
+    margin-left: 270px;
+    margin-top: 10px;
+}
+
